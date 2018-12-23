@@ -1,0 +1,14 @@
+/home/sami/SpringBootProjects/Parapharmacie/BackEnd/src/main/java/com/JEI/Parapharmacie/Controllers/ProductController.java
+/home/sami/SpringBootProjects/Parapharmacie/BackEnd/src/main/java/com/JEI/Parapharmacie/Entities/HomeInterfaceImage.java
+/home/sami/SpringBootProjects/Parapharmacie/BackEnd/src/main/java/com/JEI/Parapharmacie/Entities/Product.java
+/home/sami/SpringBootProjects/Parapharmacie/BackEnd/src/main/java/com/JEI/Parapharmacie/Entities/Admin.java
+/home/sami/SpringBootProjects/Parapharmacie/BackEnd/src/main/java/com/JEI/Parapharmacie/Entities/HomeInterfaceProduct.java
+/home/sami/SpringBootProjects/Parapharmacie/BackEnd/src/main/java/com/JEI/Parapharmacie/Repositories/CategoryRepository.java
+/home/sami/SpringBootProjects/Parapharmacie/BackEnd/src/main/java/com/JEI/Parapharmacie/Repositories/HomeInterfaceProductRepository.java
+/home/sami/SpringBootProjects/Parapharmacie/BackEnd/src/main/java/com/JEI/Parapharmacie/Repositories/ProductRepository.java
+/home/sami/SpringBootProjects/Parapharmacie/BackEnd/src/main/java/com/JEI/Parapharmacie/Entities/Category.java
+/home/sami/SpringBootProjects/Parapharmacie/BackEnd/src/main/java/com/JEI/Parapharmacie/ParapharmacieApplication.java
+/home/sami/SpringBootProjects/Parapharmacie/BackEnd/src/main/java/com/JEI/Parapharmacie/Controllers/CategoryController.java
+/home/sami/SpringBootProjects/Parapharmacie/BackEnd/src/main/java/com/JEI/Parapharmacie/Controllers/HomeInterfaceImageController.java
+/home/sami/SpringBootProjects/Parapharmacie/BackEnd/src/main/java/com/JEI/Parapharmacie/Controllers/HomeInterfaceProductsController.java
+/home/sami/SpringBootProjects/Parapharmacie/BackEnd/src/main/java/com/JEI/Parapharmacie/Repositories/HomeInterfaceImageRepository.java

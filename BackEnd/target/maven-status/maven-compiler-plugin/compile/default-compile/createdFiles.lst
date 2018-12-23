@@ -1,0 +1,14 @@
+com/JEI/Parapharmacie/Controllers/HomeInterfaceProductsController.class
+com/JEI/Parapharmacie/ParapharmacieApplication.class
+com/JEI/Parapharmacie/Entities/Product.class
+com/JEI/Parapharmacie/Repositories/HomeInterfaceImageRepository.class
+com/JEI/Parapharmacie/Repositories/CategoryRepository.class
+com/JEI/Parapharmacie/Controllers/ProductController.class
+com/JEI/Parapharmacie/Repositories/ProductRepository.class
+com/JEI/Parapharmacie/Repositories/HomeInterfaceProductRepository.class
+com/JEI/Parapharmacie/Entities/HomeInterfaceImage.class
+com/JEI/Parapharmacie/Controllers/CategoryController.class
+com/JEI/Parapharmacie/Controllers/HomeInterfaceImageController.class
+com/JEI/Parapharmacie/Entities/HomeInterfaceProduct.class
+com/JEI/Parapharmacie/Entities/Admin.class
+com/JEI/Parapharmacie/Entities/Category.class
